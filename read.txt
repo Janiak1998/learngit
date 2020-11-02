@@ -1,8 +1,1 @@
-这是我新增的内容。
-
-n二五on.
-
-new row.
-
-new one.
-new two.
+Creating a new branch is quick and simple.
