@@ -6,3 +6,4 @@ new row.
 
 new one.
 
+Creating a new branch is quick AND simple.
