@@ -1,0 +1,7 @@
+diff a/read.txt b/read.txt	(rejected hunks)
+@@ -2,3 +2,4 @@
+ new Dev1.
+ add merge.
+ add dev.
++fixed bug.
+\ No newline at end of file
